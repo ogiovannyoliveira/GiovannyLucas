@@ -13,6 +13,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 - ⚡ Gosto muito de tocar instrumentos e brincar com baralho nas horas vagas
 - 📫 E-mail: giovannylucax@gmail.com | Instagram: @giovannylucax
 
+
 <div align="center" >
 
 [![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=GiovannyLucas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
