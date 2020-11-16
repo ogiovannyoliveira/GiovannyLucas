@@ -2,6 +2,7 @@
 
 <!--
 **GiovannyLucas/GiovannyLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de programação e seus afins.
 
@@ -11,7 +12,6 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 - ⛵ Aprendendo sobre IoT
 - ⚡ Gosto muito de tocar instrumentos e brincar com baralho nas horas vagas
 - 📫 E-mail: giovannylucax@gmail.com | Instagram: @giovannylucax
--->
 
 <div align="center" >
 
