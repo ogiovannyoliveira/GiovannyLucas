@@ -11,6 +11,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 - 🌱 Mantendo sempre vivos, ReactJS e React Native dentro de mim
 - ⛵ Aprendendo sobre IoT
 - ⚡ Gosto muito de tocar instrumentos e brincar com baralho nas horas vagas
+- 🧭 Brasil, Nordeste, RN
 - 📫 E-mail: giovannylucax@gmail.com | Instagram: @giovannylucax
 
 
