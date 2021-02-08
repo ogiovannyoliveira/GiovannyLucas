@@ -18,7 +18,6 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 
 ### Stacks :computer:
 ----
-<br/>
 
 <a style="text-decoration: none;" href="https://www.w3schools.com/html/">
   <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML"/>
