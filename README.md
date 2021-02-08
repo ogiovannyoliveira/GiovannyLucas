@@ -17,6 +17,8 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 <br/>
 
 ### Stacks :computer:
+----
+<br/>
 
 <a style="text-decoration: none;" href="https://www.w3schools.com/html/">
   <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML"/>
@@ -58,6 +60,8 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 <br/>
 
 ### Stats :chart_with_upwards_trend:
+----
+<br/>
 
 <div style="display: flex; flex-wrap: wrap" align="center" >
 
@@ -70,6 +74,8 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 <br/>
 
 ### Social :rocket:
+----
+<br/>
 
 [<img align="left" alt="Social | LinkedIn" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Email-256.png" />][mail]
 [<img align="left" style="margin-left: 5px" alt="Social | Github" width="30px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />][github]
