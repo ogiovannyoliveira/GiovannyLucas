@@ -15,7 +15,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 - 🧭 Brasil, Nordeste, RN
 - 📫 E-mail: giovannylucax@gmail.com
 
-----
+<br/>
 
 ### Stacks :computer:
 
@@ -56,7 +56,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
   <img height="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
 </a>
 
-----
+<br/>
 
 ### Stats :chart_with_upwards_trend:
 
@@ -68,14 +68,16 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 
 </div>
 
-----
+<br/>
 
 ### Redes Sociais
 
-[<img align="left" alt="Social | Github" width="30px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />][github]
+[<img align="left" alt="Social | LinkedIn" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Email-256.png" />][mail]
+[<img align="left" style="margin-left: 5px" alt="Social | Github" width="30px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />][github]
 [<img align="left" style="margin-left: 5px" alt="Social | Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
 [<img align="left" style="margin-left: 5px" alt="Social | LinkedIn" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin]
 
+[mail]: mailto:giovannylucax@gmail.com
 [github]: https://github.com/GiovannyLucas
 [twitter]: https://twitter.com/giovannylucax
-[linkedin]: https://linkedin.com/in/giovanny-oliveira
+[linkedin]: https://linkedin.com/in/giovanny-oliveira-7951771a1
