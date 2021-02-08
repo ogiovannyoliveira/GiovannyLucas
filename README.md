@@ -13,7 +13,6 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 - ⛵ Aprendendo sobre IoT
 - ⚡ Gosto muito de tocar instrumentos e brincar com baralho nas horas vagas
 - 🧭 Brasil, Nordeste, RN
-
 <br/>
 
 ### Stacks :computer:
