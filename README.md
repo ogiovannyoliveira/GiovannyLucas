@@ -20,14 +20,59 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 
 [![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=GiovannyLucas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLucas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GiovannyLucas&theme=dracula&title_color=FFF)](https://wakatime.com)
+
 </div>
+
+----
+
+### Stacks :computer:
+
+<a style="text-decoration: none;" href="https://www.w3schools.com/html/">
+  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML"/>
+</a>
+<a style="text-decoration: none;" href="https://www.w3schools.com/css/">
+  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
+</a>
+<a style="text-decoration: none;" href="https://www.javascript.com/">
+  <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
+</a>
+<a style="text-decoration: none;" href="https://www.typescriptlang.org/">
+  <img height="32" src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="TypeScript"/>
+</a>
+<a style="text-decoration: none;" href="https://vuejs.org/">
+  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
+</a>
+<a style="text-decoration: none;" href="https://nuxtjs.org/">
+  <img height="32" src="https://nuxtjs.org/favicon.ico" alt="NuxtJS"/>
+</a>
+<a style="text-decoration: none;" href="https://nodejs.org/en/">
+  <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
+</a>
+<a style="text-decoration: none;" href="https://nestjs.com/">
+  <img height="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS"/>
+</a>
+<a style="text-decoration: none;" href="https://www.postgresql.org/">
+  <img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/>
+</a>
+<a style="text-decoration: none;" href="https://flutter.dev/">
+  <img height="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
+</a>
+<a style="text-decoration: none;" href="https://dart.dev">
+  <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
+</a>
+<a style="text-decoration: none;" href="https://www.docker.com/">
+  <img height="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
+</a>
+  
+----
 
 ### Redes Sociais
 
-[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Social | Github" width="30px" src="https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-256.png" />][github]
+[<img align="left" alt="Social | Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png" />][twitter]
+[<img align="left" alt="Social | LinkedIn" width="30px" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png" />][linkedin]
 
 [github]: https://github.com/GiovannyLucas
 [twitter]: https://twitter.com/giovannylucax
-[linkedin]: https://linkedin.com/in/giovanny-oliveira-7951771a1
+[linkedin]: https://linkedin.com/in/giovanny-oliveira
