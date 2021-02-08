@@ -13,7 +13,6 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 - ⛵ Aprendendo sobre IoT
 - ⚡ Gosto muito de tocar instrumentos e brincar com baralho nas horas vagas
 - 🧭 Brasil, Nordeste, RN
-- 📫 E-mail: giovannylucax@gmail.com
 
 <br/>
 
@@ -70,7 +69,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 
 <br/>
 
-### Redes Sociais
+### Social :rocket:
 
 [<img align="left" alt="Social | LinkedIn" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Email-256.png" />][mail]
 [<img align="left" style="margin-left: 5px" alt="Social | Github" width="30px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />][github]
@@ -80,4 +79,4 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 [mail]: mailto:giovannylucax@gmail.com
 [github]: https://github.com/GiovannyLucas
 [twitter]: https://twitter.com/giovannylucax
-[linkedin]: https://linkedin.com/in/giovanny-oliveira-7951771a1
+[linkedin]: https://linkedin.com/in/giovanny-oliveira
