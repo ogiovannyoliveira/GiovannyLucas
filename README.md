@@ -24,7 +24,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 <a style="text-decoration: none;" href="https://www.w3schools.com/css/">
   <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
 </a>
-<a style="text-decoration: none;" href="https://www.javascript.com/">
+<a style="text-decoration: none;" href="https://user-images.githubusercontent.com/41789184/107232755-8cd14000-6a00-11eb-8494-4c97cb2a34a4.png">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
 <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
