@@ -15,15 +15,6 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 - 🧭 Brasil, Nordeste, RN
 - 📫 E-mail: giovannylucax@gmail.com
 
-
-<div align="center" >
-
-[![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=GiovannyLucas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLucas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GiovannyLucas&theme=dracula&title_color=FFF)](https://wakatime.com)
-
-</div>
-
 ----
 
 ### Stacks :computer:
@@ -64,14 +55,26 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 <a style="text-decoration: none;" href="https://www.docker.com/">
   <img height="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
 </a>
-  
+
+----
+
+### Stats :chart_with_upwards_trend:
+
+<div style="display: flex; flex-wrap: wrap" align="center" >
+
+[![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=GiovannyLucas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLucas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GiovannyLucas&theme=dark&title_color=FFF)](https://wakatime.com)
+
+</div>
+
 ----
 
 ### Redes Sociais
 
-[<img align="left" alt="Social | Github" width="30px" src="https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-256.png" />][github]
-[<img align="left" alt="Social | Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png" />][twitter]
-[<img align="left" alt="Social | LinkedIn" width="30px" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png" />][linkedin]
+[<img align="left" alt="Social | Github" width="30px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />][github]
+[<img align="left" style="margin-left: 5px" alt="Social | Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
+[<img align="left" style="margin-left: 5px" alt="Social | LinkedIn" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin]
 
 [github]: https://github.com/GiovannyLucas
 [twitter]: https://twitter.com/giovannylucax
