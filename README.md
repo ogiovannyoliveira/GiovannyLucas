@@ -60,22 +60,23 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 ### Stats :chart_with_upwards_trend:
 ----
 
-<div align="center" >
+<div align="center" style="display: flex; flex-wrap: wrap">
 
-<div style="margin: 3px">
+  <div style="margin: 3px">
 
-[![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=GiovannyLucas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  [![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=GiovannyLucas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
-<div style="margin: 3px">
+  <div style="margin: 3px; min-width: 300px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLucas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GiovannyLucas&theme=dark&title_color=FFF)](https://wakatime.com)
+  </div>
 
-<div style="margin: 3px">
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GiovannyLucas&theme=dark&title_color=FFF)](https://wakatime.com)
-</div>
+  <div style="margin: 3px">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLucas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
 </div>
 
