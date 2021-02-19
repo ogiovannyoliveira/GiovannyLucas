@@ -1,5 +1,11 @@
 ### Olá, mundo! 🤟
 
+<div align="right">
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/GiovannyLucas)](https://github.com/GiovannyLucas)
+
+</div>
+
 <!--
 **GiovannyLucas/GiovannyLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
