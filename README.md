@@ -91,4 +91,4 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 [twitter]: https://twitter.com/giovannylucax
 [github]: https://github.com/GiovannyLucas
 [linkedin]: https://linkedin.com/in/giovanny-oliveira
-[rocketseat]: https://app.rocketseat.com.br/me/giovanny-lucas-04411
+[rocketseat]: https://app.rocketseat.com.br/me/giovanny-lucas
