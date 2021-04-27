@@ -6,10 +6,6 @@
 
 </div>
 
-<!--
-**GiovannyLucas/GiovannyLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de programação e seus afins.
 
 - 🏢 Trabalhando atualmente como programador na empresa Brisanet Telecomunicações
@@ -78,12 +74,6 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GiovannyLucas&theme=dark&title_color=FFF)](https://wakatime.com)
   </div>
 
-
-  <div style="margin: 3px">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannyLucas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-
 </div>
 
 <br/>
@@ -95,8 +85,10 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 [<img align="left" style="margin-left: 5px" alt="Social | Github" width="30px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />][github]
 [<img align="left" style="margin-left: 5px" alt="Social | Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
 [<img align="left" style="margin-left: 5px" alt="Social | LinkedIn" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin]
+[<img align="left" style="margin-left: 5px" alt="Social | App Rocketseat" width="30px" src="https://cdn-images-1.medium.com/max/92/1*TkXVfLTwsHdwpUEjGzdi9w@2x.jpeg" />][rocketseat]
 
 [mail]: mailto:giovannylucax@gmail.com
-[github]: https://github.com/GiovannyLucas
 [twitter]: https://twitter.com/giovannylucax
+[github]: https://github.com/GiovannyLucas
 [linkedin]: https://linkedin.com/in/giovanny-oliveira
+[rocketseat]: https://app.rocketseat.com.br/me/giovanny-lucas-04411
