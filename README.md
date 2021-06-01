@@ -8,11 +8,11 @@
 
 Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de programação e seus afins.
 
-- 🏢 Trabalhando atualmente como programador na empresa Brisanet Telecomunicações
-- 🔭 Estudando NestJS (Node), NuxtJS (Vue), Flutter, Banco de dados relacional, SQL e Cultura DevOps
-- 📖 Participando do curso FullCycle Developer, da Code Education
-- 🌱 Mantendo sempre vivos, ReactJS e React Native dentro de mim
+- 🏢 Trabalhando como programador Tech Leader na empresa Agritech Semiárido e Agricultura
+- 🔭 Estudando e utilizando NestJS (Node), Banco de dados relacional, SQL e Cultura DevOps
+- 📖 Aluno do curso FullCycle Developer, da Code Education e curso Dynamic de Inglês, na Times Idiomas
 - ⛵ Aprendendo sobre IoT
+- 🌱 Mantendo sempre vivos, ReactJS e React Native dentro de mim
 - ⚡ Gosto muito de tocar instrumentos e brincar com baralho nas horas vagas
 - 🧭 Brasil, Nordeste, RN
 <br/>
