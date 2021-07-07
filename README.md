@@ -73,7 +73,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 
   <div style="margin: 3px; min-width: 300px">
 
- [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GiovannyLucas&layout=compact&theme=dracula&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+ [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GiovannyLucas&layout=compact&theme=dark&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 </div>
