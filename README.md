@@ -67,11 +67,13 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
   <div style="margin: 3px">
 
   [![Giovanny's github stats](https://github-readme-stats.vercel.app/api?username=GiovannyLucas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+    
+    
   </div>
 
   <div style="margin: 3px; min-width: 300px">
 
-  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=GiovannyLucas&theme=dark&title_color=FFF)](https://wakatime.com)
+ [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GiovannyLucas&layout=compact&theme=dracula&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 </div>
