@@ -36,7 +36,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
   <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
 </a>
 <a style="text-decoration: none;" href="https://nuxtjs.org/">
-  <img height="32" src="https://nuxtjs.org/favicon.ico" alt="NuxtJS"/>
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" alt="NuxtJS"/>
 </a>
 <a style="text-decoration: none;" href="https://nodejs.org/en/">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
@@ -44,11 +44,14 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 <a style="text-decoration: none;" href="https://nestjs.com/">
   <img height="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS"/>
 </a>
+<a style="text-decoration: none;" href="https://go.dev/">
+  <img height="32" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Golang"/>
+</a>
 <a style="text-decoration: none;" href="https://www.postgresql.org/">
   <img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/>
 </a>
 <a style="text-decoration: none;" href="https://flutter.dev/">
-  <img height="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
+  <img height="32" src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter"/>
 </a>
 <a style="text-decoration: none;" href="https://dart.dev">
   <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
