@@ -6,10 +6,10 @@
 
 </div>
 
-Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de programação e seus afins.
+Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de programação e seus afins. Curso Engenharia de Software e quero compartilhar por aqui um pouco do que aprendo diariamente nas minhas pesquisas, estudos, cursos, livros e curiosidades/experimentos próprios haha! 
 
 - 🏢 Trabalhando como desenvolvedor Back-end na [@Compass.uol](https://compass.uol)
-- 🔭 Estudando e utilizando NestJS (Node), Banco de dados relacional, SQL e Cultura DevOps
+- 🔭 Utilizando muito NestJS (Node), Banco de dados relacional, conceito de microsserviços e sistemas distribuídos
 - 📖 Aluno do curso FullCycle Developer, da Code Education e curso Dynamic de Inglês, na Times Idiomas
 - ⛵ Aprendendo sobre IoT
 - 🌱 Mantendo sempre vivos React.js e React Native dentro de mim
