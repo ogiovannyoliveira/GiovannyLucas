@@ -12,7 +12,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 - 🔭 Estudando e utilizando NestJS (Node), Banco de dados relacional, SQL e Cultura DevOps
 - 📖 Aluno do curso FullCycle Developer, da Code Education e curso Dynamic de Inglês, na Times Idiomas
 - ⛵ Aprendendo sobre IoT
-- 🌱 Mantendo sempre vivos, ReactJS e React Native dentro de mim
+- 🌱 Mantendo sempre vivos React.js e React Native dentro de mim
 - ⚡ Gosto muito de tocar instrumentos e brincar com baralho nas horas vagas
 - 🧭 Brasil, Nordeste, RN
 <br/>
@@ -30,7 +30,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
 <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
-  <img height="32" src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="TypeScript"/>
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"/>
 </a>
 <a style="text-decoration: none;" href="https://vuejs.org/">
   <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
