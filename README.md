@@ -57,7 +57,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
   <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
 </a>
 <a style="text-decoration: none;" href="https://www.docker.com/">
-  <img height="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
+  <img height="32" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" alt="Docker"/>
 </a>
 
 <br/>
