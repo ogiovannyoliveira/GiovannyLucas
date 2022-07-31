@@ -26,8 +26,8 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
 <a style="text-decoration: none;" href="https://www.w3schools.com/css/">
   <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
 </a>
-<a style="text-decoration: none;" href="https://user-images.githubusercontent.com/41789184/107232755-8cd14000-6a00-11eb-8494-4c97cb2a34a4.png">
-  <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
+<a style="text-decoration: none;" href="https://www.javascript.com">
+  <img height="32" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" alt="JavaScript"/>
 </a>
 <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"/>
@@ -36,7 +36,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
   <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
 </a>
 <a style="text-decoration: none;" href="https://nuxtjs.org/">
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" alt="NuxtJS"/>
+  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="NuxtJS"/>
 </a>
 <a style="text-decoration: none;" href="https://nodejs.org/en/">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
@@ -51,7 +51,7 @@ Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de progra
   <img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/>
 </a>
 <a style="text-decoration: none;" href="https://flutter.dev/">
-  <img height="32" src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter"/>
+  <img height="32" src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png" alt="Flutter"/>
 </a>
 <a style="text-decoration: none;" href="https://dart.dev">
   <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
