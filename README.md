@@ -1,4 +1,4 @@
-### Olá, mundo! 🤟
+### Hello, world! 🤟
 
 <div align="right">
 
@@ -6,15 +6,15 @@
 
 </div>
 
-Meu nome é Giovanny Lucas, desenvolvedor Full Stack e eterno aprendiz de programação e seus afins. Curso Engenharia de Software e quero compartilhar por aqui um pouco do que aprendo diariamente nas minhas pesquisas, estudos, cursos, livros e curiosidades/experimentos próprios haha! 
+I'm Giovanny Lucas, Full Stack developer eternal programming apprentice and the like. I'm studying Software Engineering and I want to share here a little bit about what I'm daily learning in my research, studies, free courses, books and curiosities / own expiciences. Hehey!
 
-- 🏢 Trabalhando como desenvolvedor Back-end na [@Compass.uol](https://compass.uol)
-- 🔭 Utilizando muito NestJS (Node), Banco de dados relacional, conceito de microsserviços e sistemas distribuídos
-- 📖 Aluno do curso FullCycle Developer, da Code Education e curso Dynamic de Inglês, na Times Idiomas
-- ⛵ Aprendendo sobre IoT
-- 🌱 Mantendo sempre vivos React.js e React Native dentro de mim
-- ⚡ Gosto muito de tocar instrumentos e brincar com baralho nas horas vagas
-- 🧭 Brasil, Nordeste, RN
+- 🏢 Working currently as a Software Back-end Developer at [@Compass.uol](https://compass.uol)
+- 🔭 Using daily NestJS (Node), Relational database, Microservices concepts and Distributed systems
+- 📖 Student in the course FullCycle Developer, at Code Education and the english course "Dynamic", at Times Idiomas school
+- ⛵ Learning about IoT
+- 🌱 Keeping alive React.js and React Native inside of me
+- ⚡ I like too much play instruments and play with cards in my free time
+- 🧭 Brazil, Northeast, RN
 <br/>
 
 ### Stacks :computer:
