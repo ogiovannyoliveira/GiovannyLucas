@@ -8,8 +8,8 @@
 
 I'm Giovanny Lucas, Full Stack developer eternal programming apprentice and the like. I'm studying Software Engineering and I want to share here a little bit about what I'm daily learning in my research, studies, free courses, books and curiosities / own experiences. Hehey!
 
-- 🏢 Working currently as a Software Back-end Developer at [@Compass.uol](https://compass.uol)
-- 🔭 Using daily NestJS (Node), Relational database, Microservices concepts and Distributed systems
+- 🏢 Working currently as a Software Back-end Developer at [@Venturus](https://www.venturus.org.br)
+- 🔭 Using daily Node.js, Relational database, GraphQL
 - 📖 Student in the course FullCycle Developer, at Code Education and the english course "Dynamic", at Times Idiomas school
 - ⛵ Learning about IoT
 - 🌱 Keeping alive React.js and React Native inside of me
